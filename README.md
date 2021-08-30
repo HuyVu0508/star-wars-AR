@@ -9,7 +9,7 @@ In this project, I mainly test my story-telling ability through designs and anim
 
 The experience starts when user head the phone to the following target image. It is the a painting hung in my bedroom that I took a picture with my phone to make the target image for initializing the animation:
 <p align="center">
-  <img width="300" src="images/target_img.PNG">
+  <img width="300" src="images/target_img.png">
 </p>
 
 Check out the demo video here (https://youtu.be/YvnoHjo2Fxk) and some snapshots of the experience:
