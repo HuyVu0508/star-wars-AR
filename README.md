@@ -13,4 +13,5 @@ Check out the demo video here (https://youtu.be/YvnoHjo2Fxk) and some snapshots 
   <img width="400" src="images/img2.PNG">
   <img width="400" src="images/img3.PNG">
   <img width="400" src="images/img4.PNG">
-</p>
+  <img width="400" src="images/img5.PNG">
+  <img width="400" src="images/img6.PNG"></p>
